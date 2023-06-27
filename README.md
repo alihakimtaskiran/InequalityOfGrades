@@ -25,7 +25,7 @@ The key findings suggest that there is variation in grade inequality among diffe
 
 Understanding these differences in grade distribution can help identify areas where there might be challenges in academic performance and grading practices, prompting further investigation and potential improvements to ensure fairness and equal opportunities for all students.
 
-Grade Inequality
+![Grade Inequality](https://github.com/alihakimtaskiran/InequalityOfGrades/blob/main/All.png?raw=true)
 
 Note: The image above provides a visual representation of the grade inequality for all courses at Bilkent University.
 
