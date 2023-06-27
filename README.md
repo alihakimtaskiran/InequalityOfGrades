@@ -27,8 +27,6 @@ Understanding these differences in grade distribution can help identify areas wh
 
 ![Grade Inequality](https://github.com/alihakimtaskiran/InequalityOfGrades/blob/main/All.png?raw=true)
 
-Note: The image above provides a visual representation of the grade inequality for all courses at Bilkent University.
-
 
 |Course|Gini Index|
 |---|---|
