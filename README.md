@@ -18,6 +18,10 @@ Based on the Gini index values, the courses can be categorized as follows:
     • Severe Inequality (Maroon): Courses with Gini index values ranging from 0.41 to 0.63 (inclusive). These courses demonstrate a severe level of grade inequality among students.
 The key findings suggest that there is variation in grade inequality among different courses at Bilkent University. Courses with lower Gini index values (green) indicate a more equal distribution of grades, while courses with higher Gini index values (maroon) depict a greater degree of grade inequality.
 Understanding these differences in grade distribution can help identify areas where there might be challenges in academic performance and grading practices, prompting further investigation and potential improvements to ensure fairness and equal opportunities for all students.
+
+![](https://github.com/alihakimtaskiran/InequalityOfGrades/blob/main/All.png?raw=true)
+
+
 |Course|Gini Index|
 |---|---|
 |<font color="green">HIST200</font>|0.07|
@@ -44,6 +48,7 @@ Understanding these differences in grade distribution can help identify areas wh
 |<font color="maroon">MATH102</font>|0.63|
 **Lower is better**: <font color="maroon">Severe</font>, <font color="red">High</font>, <font color="orange">Moderate</font>, <font color="green">Low</font>.
  This data analysis depict the inequality of Bilkent University students in terms of their grades
+ 
 
 ## Calculating Gini Index
 The notebook demonstrates how to calculate the Gini index using NumPy. It utilizes the Lorenz curve concept to measure the inequality in the grade distribution. The Gini index value ranges from 0 to 1, where 0 represents perfect equality (all students have the same grade) and 1 represents maximum inequality (one student has all the grades).
