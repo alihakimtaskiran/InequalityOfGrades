@@ -11,6 +11,7 @@ In this notebook, we utilize the powerful NumPy library to calculate the Gini in
 
 The table provides the Gini index values for different courses at Bilkent University. The Gini index is a measure of inequality in grade distribution, where lower values indicate less inequality and higher values indicate more inequality.
 Based on the Gini index values, the courses can be categorized as follows:
+
     • Low Inequality (Green): Courses with Gini index values ranging from 0.07 to 0.19 (inclusive). These courses exhibit relatively low grade inequality among students. 
     • Moderate Inequality (Orange): Courses with Gini index values ranging from 0.21 to 0.25 (inclusive). These courses demonstrate a moderate level of grade inequality among students.
     • High Inequality (Red): Courses with Gini index values ranging from 0.28 to 0.39 (inclusive). These courses exhibit a high degree of grade inequality among students.
